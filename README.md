@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sameer Nilkhan</h1>
 <h3 align="center">An Optimistic Problem Solver from India</h3>
 
-- 🔭 I’m currently working on **React application to create customizable 3D bags model**
-
-- 🌱 I’m currently learning **Java, DSA**
+- 🌱 I’m currently learning **Java, DSA and web development**
 
 - 📫 How to reach me **sameernilkhan11@gmail.com**
 

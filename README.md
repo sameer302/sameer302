@@ -5,8 +5,6 @@
 
 - 📫 How to reach me **sameernilkhan11@gmail.com**
 
-- 📄 Know about my experiences [https://shorturl.at/GN015](https://shorturl.at/GN015)
-
 - ⚡ Fun fact **I Love Engineering**
 
 <h3 align="left">Connect with me:</h3>

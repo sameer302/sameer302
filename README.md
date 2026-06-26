@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sameer Kishor Nilkhan</h1>
+<h1 align="center">Hi, I'm Sameer Kishor Nilkhan</h1>
 <h2 align="center">I am currently working in the field of Edge AI, particularly for application in Healthcare. </h2>
 <h3 align="left"> MS(R) from IIT Bombay | BTech in CSE from VIT </h3>
 
